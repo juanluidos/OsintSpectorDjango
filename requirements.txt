@@ -12,7 +12,7 @@ future==0.18.2
 gunicorn==20.1.0
 idna==2.10
 jdcal==1.4.1
-lxml==4.6.3
+lxml==4.9.1
 networkx==2.6.3
 oauthlib==3.1.1
 odfpy==0.9.6
